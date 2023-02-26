@@ -1,0 +1,11 @@
+/home/kent/repos/kentaasvang/voxel_engine/voxel_engine/target/debug/deps/codespan_reporting-a19b76a5e7a03836.rmeta: /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/lib.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/diagnostic.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/files.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/config.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/renderer.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/views.rs
+
+/home/kent/repos/kentaasvang/voxel_engine/voxel_engine/target/debug/deps/codespan_reporting-a19b76a5e7a03836.d: /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/lib.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/diagnostic.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/files.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/config.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/renderer.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/views.rs
+
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/lib.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/diagnostic.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/files.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/config.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/renderer.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/views.rs:

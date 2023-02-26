@@ -1,0 +1,12 @@
+{
+  "name": "voxel_engine",
+  "version": "0.1.0",
+  "files": [
+    "voxel_engine_bg.wasm",
+    "voxel_engine.js",
+    "voxel_engine.d.ts"
+  ],
+  "module": "voxel_engine.js",
+  "types": "voxel_engine.d.ts",
+  "sideEffects": false
+}

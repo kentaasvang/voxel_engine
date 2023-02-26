@@ -1,0 +1,12 @@
+/home/kent/repos/kentaasvang/voxel_engine/voxel_engine/target/debug/deps/sctk_adwaita-6c9f5e68de100cfd.rmeta: /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/lib.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/theme.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/buttons.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/parts.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/pointer.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/surface.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/title.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/title/crossfont_renderer.rs
+
+/home/kent/repos/kentaasvang/voxel_engine/voxel_engine/target/debug/deps/sctk_adwaita-6c9f5e68de100cfd.d: /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/lib.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/theme.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/buttons.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/parts.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/pointer.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/surface.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/title.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/title/crossfont_renderer.rs
+
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/lib.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/theme.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/buttons.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/parts.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/pointer.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/surface.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/title.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/sctk-adwaita-0.4.3/src/title/crossfont_renderer.rs:
